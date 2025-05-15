@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dustbuster&label=Profile%20views&color=0e75b6&style=flat" alt="dustbuster" /> </p>
 
-### 🔥 I’m currently learning **React, Node, Express, Typescript, Postgres, Php, and Laravel**
+### 🔥 I’m currently using **React, Graphql, Node, Apollo Express servers, Typescript, & Postgres! **
 
 - 🔭 I’m using [node-backend](https://github.com/dustbuster/node-backend)
 
@@ -13,13 +13,11 @@
 
 - My Website is at [https://dustinhorning.info](https://dustinhorning.info)
 
-- I occasionally write articles at [dustinhorningblog.wordpress.com](dustinhorningblog.wordpress.com)
+- 💬 My Domain Expertise is in **Vue, Laravel, PHP, Linux**
 
-- 💬 Ask me about **Vue, Laravel, PHP**
+- 🔗 LinkedIn: [https://www.linkedin.com/in/dustin-horning/](https://www.linkedin.com/in/dustin-horning/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dustin-horning/](https://www.linkedin.com/in/dustin-horning/)
-
-- ⚡ Fun fact **I love mountain biking, and coaching youth cross country teams with NICA.**
+- ⚡ Fun fact **I love mountain biking, and coaching youth cross country teams with [MICL](https://marylandmtb.org/).**
 
 ### 🧩 Connect with me
 
