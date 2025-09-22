@@ -47,6 +47,3 @@
 
 ![Dustbuster's GitHub stats](https://github-readme-stats.vercel.app/api?username=dustbuster&show_icons=true&theme=dark)
 
-### Views
-
-![Visitor Count](https://profile-counter.glitch.me/dustbuster/count.svg)
