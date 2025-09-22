@@ -42,3 +42,11 @@
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=dustbuster&" alt="dustbuster" /></p>
 
 <p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dustbuster" alt="dustbuster" /></a> </p>
+
+### Stats!
+
+![Dustbuster's GitHub stats](https://github-readme-stats.vercel.app/api?username=dustbuster&show_icons=true&theme=dark)
+
+### Views
+
+![Visitor Count](https://profile-counter.glitch.me/dustbuster/count.svg)
