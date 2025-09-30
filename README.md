@@ -1,5 +1,4 @@
 <h1 align="center">Welcome!</h1>
-<h3 align="center">Web Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dustbuster&label=Profile%20views&color=0e75b6&style=flat" alt="dustbuster" /> </p>
 
