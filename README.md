@@ -12,7 +12,7 @@
 
 - My Website is at [https://dustinhorning.info](https://dustinhorning.info)
 
-- 💬 My Domain Expertise is in **Vue, Laravel, PHP, Linux**
+- 💬 My Domain Expertise is in **Vue, Laravel, PHP, Linux, React, JS (duh), TypeScript & Node**
 
 - 🔗 LinkedIn: [https://www.linkedin.com/in/dustin-horning/](https://www.linkedin.com/in/dustin-horning/)
 
