@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dustbuster&label=Profile%20views&color=0e75b6&style=flat" alt="dustbuster" /> </p>
 
-### 🔥 I’m currently using **React, Graphql, Node, Apollo Express servers, Typescript, & Postgres! **
+### 🔥 I’m currently using **React, Graphql, Node, Apollo Express servers, Typescript, & Postgres!**
 
 - 🔭 I’m using [node-backend](https://github.com/dustbuster/node-backend)
 
